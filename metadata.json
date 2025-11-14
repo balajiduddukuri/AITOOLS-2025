@@ -1,0 +1,5 @@
+{
+  "name": "AI Tool Directory - Balaji Duddukuri -2025",
+  "description": "An elegant, auto-updating directory of AI tools. This application displays a curated list of AI tools and dynamically fetches a concise description for each using the Gemini API, presenting the information in a clean, user-friendly table.",
+  "requestFramePermissions": []
+}
